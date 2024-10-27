@@ -1,1 +1,40 @@
-{"P6": {"labels": ["\u5de5\u5177\u8f6f\u4ef6"], "postTitle": "Gmeek\u8fdb\u9636\u3011\u5f3a\u8c03\u5173\u952e\u4fe1\u606f\u4f7f\u7528", "postUrl": "post/6.html", "createdDate": "2024-10-27", "dateLabelColor": "#bc4c00"}, "P5": {"labels": ["\u5de5\u5177\u8f6f\u4ef6"], "postTitle": "\u3010Gmeek\u8fdb\u9636\u3011\u53f3\u4e0a\u89d2\u5706\u6309\u94ae\u914d\u7f6e", "postUrl": "post/5.html", "createdDate": "2024-10-27", "dateLabelColor": "#bc4c00"}, "P4": {"labels": ["\u7f51\u7edc\u6559\u7a0b"], "postTitle": "Gmeek\u5feb\u901f\u4e0a\u624b", "postUrl": "post/4.html", "createdDate": "2024-10-27", "dateLabelColor": "#bc4c00"}, "labelColorDict": {"bug": "#d73a4a", "documentation": "#0075ca", "duplicate": "#cfd3d7", "enhancement": "#a2eeef", "invalid": "#e4e669", "question": "#d876e3", "wontfix": "#ffffff", "\u5de5\u5177\u8f6f\u4ef6": "#008672", "\u7f51\u7edc\u6559\u7a0b": "#7057ff"}}
+{
+    "P6": {
+        "labels": [
+            "工具软件"
+        ],
+        "postTitle": "Gmeek进阶】强调关键信息使用",
+        "postUrl": "post/6.html",
+        "createdDate": "2024-10-27",
+        "dateLabelColor": "#bc4c00"
+    },
+    "P5": {
+        "labels": [
+            "工具软件"
+        ],
+        "postTitle": "【Gmeek进阶】右上角圆按钮配置",
+        "postUrl": "post/5.html",
+        "createdDate": "2024-10-27",
+        "dateLabelColor": "#bc4c00"
+    },
+    "P4": {
+        "labels": [
+            "网络教程"
+        ],
+        "postTitle": "Gmeek快速上手",
+        "postUrl": "post/4.html",
+        "createdDate": "2024-10-27",
+        "dateLabelColor": "#bc4c00"
+    },
+    "labelColorDict": {
+        "bug": "#d73a4a",
+        "documentation": "#0075ca",
+        "duplicate": "#cfd3d7",
+        "enhancement": "#a2eeef",
+        "invalid": "#e4e669",
+        "question": "#d876e3",
+        "wontfix": "#ffffff",
+        "工具软件": "#008672",
+        "网络教程": "#7057ff"
+    }
+}
